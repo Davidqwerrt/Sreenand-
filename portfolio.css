@@ -127,3 +127,6 @@
     transform: scale(0.9);
     transition: transform 1s ease;
       }
+ .btn-sub{
+   border:none;
+      }
